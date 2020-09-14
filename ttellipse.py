@@ -12,11 +12,11 @@ CLI Usage:
     python ttellipse.py [options]
 Options:
     -h, --help          Print this doc text.
-    --show              To not show the results or to show. 
+    --show              Show the results. 
     --save[imagepath]   Save the result to imagepath (default: "".)
 Notes:
   * By default the image is saved, you can disable it by using the "--save="
-    without and filename.
+    without a filename.
 """
 
 from __future__ import unicode_literals
